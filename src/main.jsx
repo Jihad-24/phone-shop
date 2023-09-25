@@ -22,7 +22,7 @@ const router = createBrowserRouter([
       {
         path: "/",
         element: <Home></Home>,
-        loader: ()=> fetch('../public/phone.json')
+        loader: ()=> fetch('../phone.json')
       },
       {
         path: "/favorites",
@@ -35,7 +35,7 @@ const router = createBrowserRouter([
       {
         path: "/phones/:id",
         element: <Phone></Phone>,
-        loader: ()=> fetch('../public/phone.json')
+        loader: ()=> fetch('../phone.json')
       }
     ]
   },
