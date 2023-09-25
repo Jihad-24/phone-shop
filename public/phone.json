@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "brand_name": "Samsung",
+        "phone_name": "Galaxy S21",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-mini.jpg",
+        "rating": 4.6,
+        "price": 799
+    },
+    {
+        "id": 2,
+        "brand_name": "Xiaomi",
+        "phone_name": "Redmi Note 10",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro.jpg",
+        "rating": 4.4,
+        "price": 199
+    },
+    {
+        "id": 3,
+        "brand_name": "Apple",
+        "phone_name": "iPhone 13 Pro Max",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro-max.jpg",
+        "rating": 4.9,
+        "price": 1099
+    },
+    {
+        "id": 4,
+        "brand_name": "Apple",
+        "phone_name": "iPhone 13",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13.jpg",
+        "rating": 4.7,
+        "price": 999
+    },
+    {
+        "id": 5,
+        "brand_name": "Samsung",
+        "phone_name": "Galaxy S22",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-pro-max-.jpg",
+        "rating": 4.8,
+        "price": 899
+    },
+    {
+        "id": 6,
+        "brand_name": "Xiaomi",
+        "phone_name": "Mi 11",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-pro--.jpg",
+        "rating": 4.7,
+        "price": 899
+    },
+    {
+        "id": 7,
+        "brand_name": "Apple",
+        "phone_name": "iPhone 12 Mini",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-mini.jpg",
+        "rating": 4.3,
+        "price": 699
+    },
+    {
+        "id": 8,
+        "brand_name": "Xiaomi",
+        "phone_name": "Redmi 9",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9.jpg",
+        "rating": 4.2,
+        "price": 149
+    },
+    {
+        "id": 9,
+        "brand_name": "Apple",
+        "phone_name": "iPhone SE (2020)",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-se-2020.jpg",
+        "rating": 4.2,
+        "price": 399
+    },
+    {
+        "id": 10,
+        "brand_name": "Samsung",
+        "phone_name": "Galaxy Note 20",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11-pro.jpg",
+        "rating": 4.6,
+        "price": 799
+    },
+    {
+        "id": 11,
+        "brand_name": "Apple",
+        "phone_name": "iPhone XS Max",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-max-new1.jpg",
+        "rating": 4.6,
+        "price": 1099
+    },
+    {
+        "id": 12,
+        "brand_name": "Samsung",
+        "phone_name": "Galaxy Note 20",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11.jpg",
+        "rating": 4.6,
+        "price": 799
+    },
+    {
+        "id": 13,
+        "brand_name": "Apple",
+        "phone_name": "iPhone XR",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xr-new.jpg",
+        "rating": 4.4,
+        "price": 599
+    },
+    {
+        "id": 14,
+        "brand_name": "Xiaomi",
+        "phone_name": "Mi 11",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xr-new.jpg",
+        "rating": 4.7,
+        "price": 899
+    },
+    {
+        "id": 15,
+        "brand_name": "Apple",
+        "phone_name": "iPhone XS",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-new.jpg",
+        "rating": 4.5,
+        "price": 899
+    }
+]
